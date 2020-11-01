@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Federico",
+        "apellido": "Nietzsche",
+        "libros": [
+            { "id": 1, "titulo": "El Anticristo" },
+            { "id": 2, "titulo": "Así Hablo Zaratustra" }
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Tolkien",
+        "apellido": "Perez",
+        "libros": [
+            { "id": 1, "titulo": "El señor de los anillos: La comunidad" },
+            { "id": 2, "titulo": "El señor: Las dos torres" },
+            { "id": 3, "titulo": "El señor: El retorno del rey" }
+        ]
+    }
+]
+
+
